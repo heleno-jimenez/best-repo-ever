@@ -3,6 +3,5 @@
 Initialize Git files
 Git wit SalesForce
 
-#New branch 1 changes
+#Merge resolved
 Need to update line 4
-Creating Merge conflicts
